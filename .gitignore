@@ -226,3 +226,4 @@ pip-selfcheck.json
 config.ini
 
 .idea
+.DS_Store
